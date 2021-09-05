@@ -15,7 +15,6 @@ Before I create dashboard, I sketch frame of it to make sure to make a need for 
 
 ## 3. Power BI dashboard 
 
-![Email Marketing](https://user-images.githubusercontent.com/88467188/131865565-554a8da1-45de-4610-8aea-197e65c1abda.png)
-
+![anhemail](https://user-images.githubusercontent.com/88467188/132112525-0ee98657-5909-4dbc-ac55-04544be15327.png)
 ## 4. Power BI Dashboard
 I published dashboards on Power BI services so anyone can open and interact with [**Email Marketing Campaign**](https://app.powerbi.com/view?r=eyJrIjoiNzcyNTE0ZGItMjg2Zi00YzE0LThiZjgtOWE1MjkxMDEzOGQyIiwidCI6IjM1ZTE1M2EzLTViYzgtNGZjMC04YmZhLTVkNDFhZmQ0NDU0NSIsImMiOjN9)
